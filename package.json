@@ -4,9 +4,9 @@
   "description": "Enterprise-style authentication &amp; authorization service (JWT, RBAC, security best practices)",
   "main": "index.js",
   "scripts": {
-      "dev": "nodemon src/index.js",
-      "start": "node src/index.js",
-      "test": "jest"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
